@@ -1,0 +1,8 @@
+C:\Users\donii\OneDrive\Radna površina\petramono\visual studio\LearningWriteLineReadLine\LearningWriteLineReadLine\bin\Debug\LearningWriteLineReadLine.exe.config
+C:\Users\donii\OneDrive\Radna površina\petramono\visual studio\LearningWriteLineReadLine\LearningWriteLineReadLine\bin\Debug\LearningWriteLineReadLine.exe
+C:\Users\donii\OneDrive\Radna površina\petramono\visual studio\LearningWriteLineReadLine\LearningWriteLineReadLine\bin\Debug\LearningWriteLineReadLine.pdb
+C:\Users\donii\OneDrive\Radna površina\petramono\visual studio\LearningWriteLineReadLine\LearningWriteLineReadLine\obj\Debug\LearningWriteLineReadLine.csproj.AssemblyReference.cache
+C:\Users\donii\OneDrive\Radna površina\petramono\visual studio\LearningWriteLineReadLine\LearningWriteLineReadLine\obj\Debug\LearningWriteLineReadLine.csproj.SuggestedBindingRedirects.cache
+C:\Users\donii\OneDrive\Radna površina\petramono\visual studio\LearningWriteLineReadLine\LearningWriteLineReadLine\obj\Debug\LearningWriteLineReadLine.csproj.CoreCompileInputs.cache
+C:\Users\donii\OneDrive\Radna površina\petramono\visual studio\LearningWriteLineReadLine\LearningWriteLineReadLine\obj\Debug\LearningWriteLineReadLine.exe
+C:\Users\donii\OneDrive\Radna površina\petramono\visual studio\LearningWriteLineReadLine\LearningWriteLineReadLine\obj\Debug\LearningWriteLineReadLine.pdb
