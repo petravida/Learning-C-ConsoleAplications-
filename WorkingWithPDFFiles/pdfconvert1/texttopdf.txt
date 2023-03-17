@@ -1,0 +1,7 @@
+In this tutorial, we have learned a very easy way to convert text into a PDF file. We have demonstrated examples with code. We have converted text to PDF, and we have also generated a PDF from a txt file. Moreover, we have also learned to add watermarks to our documents.
+
+There are multiple useful and interesting features provided by IronPDF, but it is impossible to cover them all here. For more details, please click here.
+
+IronPDF is a part of the IronSoftware suite. IronSuite has an array of interesting products including IronXL, IronBarcode, IronOCR, and IronWebScraper. I can assure you that you will find all of these products helpful. You can save up to 250% by purchasing the complete IronSuite, as you can currently get all five products for the price of just two. For more details, please click here.
+
+I hope this article was understandable and easy to follow. For any queries, feel free to contact us.
